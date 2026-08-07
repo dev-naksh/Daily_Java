@@ -12,7 +12,7 @@ public class Read_And_Print_All_Elements {
 
         System.out.println("elements of array are: ");
         for(int i =0; i<n;i++){
-            System.out.println(a[i] );
+            System.out.println(a[i]);
         }
          sc.close();
     }
